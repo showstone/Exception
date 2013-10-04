@@ -31,7 +31,8 @@ public class ExceptionFilter implements Filter {
 		}
 	}
 
-	public void init(FilterConfig fConfig) throws ServletException {
+	public void init(FilterConfig fConfig) throws ServletException 
+{
 	}
 
 }
